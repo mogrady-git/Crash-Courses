@@ -1,0 +1,1 @@
+-Website 2: Superglobals — Superglobals are built-in variables that are always available in all scopes https://www.php.net/manual/en/language.variables.superglobals $_SERVER Superglobal Server, Client & File Information project : // Create Client Array // Create Server Array
