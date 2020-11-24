@@ -1,0 +1,1 @@
+-Website 8: Fetching Data With MySQLi - Simple Blog Website Application Working with Databases Prerequisites -Install XAMPP -Create Database -Create Table: 5 Columns / Table Name: "posts" -id A_I, PK -title varchar(255) -body (text) -author varchar(255) -created_at (current_time)
