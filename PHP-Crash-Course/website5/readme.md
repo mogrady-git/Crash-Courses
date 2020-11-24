@@ -1,0 +1,1 @@
+-Website 5: Cookies Tutorial - Cookies are data stored on the browser of the client. You can even set the expiration date for even after the browser closes.
