@@ -11,3 +11,5 @@ http://projects.michaelogrady.net/training-and-development/Crash-Course-AJAX-JSO
 http://projects.michaelogrady.net/training-and-development/Crash-Course-AJAX-JSON-PHP-JS-ES5/ajax3.html
 http://projects.michaelogrady.net/training-and-development/Crash-Course-AJAX-JSON-PHP-JS-ES5/ajax4.html
 http://projects.michaelogrady.net/training-and-development/Crash-Course-AJAX-JSON-PHP-JS-ES5/ajax5.html
+
+- Use Console to check the requests
